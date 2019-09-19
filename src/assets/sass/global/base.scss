@@ -1,0 +1,12 @@
+$version: "1.0.0";
+/* 样式重置 - 在app.vue引入 */
+*{margin: 0;padding: 0;color: #fff;}
+body{font:12px "宋体","Arial Narrow",HELVETICA;line-height: 1;color: $lkw-black;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:normal;}
+ol,ul,li{list-style: none;}
+i,em{font-style: normal;}
+b,strong{font-weight: normal;}
+img{border: 0;}
+input,a{outline: none;}
+a{text-decoration:none}
+table{width: 100%;border-collapse:collapse;border-spacing:0}

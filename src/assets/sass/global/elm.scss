@@ -1,0 +1,14 @@
+$version: "1.0.0";
+/* 修改element-ui样式重置 - 在app.vue引入 */
+.el-card{
+  background: #000;
+}
+.el-table{
+  background: #000;
+  th,td{
+    background: #000;
+  }
+}
+.el-table--enable-row-hover .el-table__body tr:hover>td{
+  background-color: #000;
+}

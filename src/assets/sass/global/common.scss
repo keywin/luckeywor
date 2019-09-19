@@ -1,0 +1,36 @@
+$version: "1.0.0";
+/* 样式重置 - 在app.vue引入 */
+.hide{
+  display: none;
+}
+.fr{
+  float: right;
+}
+.fl{
+  float: left;
+}
+.tx-c{
+  text-align: center;
+}
+.ellipsis{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.cBlue{
+  color: $lkw-blue;
+}
+.cGreen{
+  color: $lkw-green;
+}
+.hand{
+  cursor: pointer;
+}
+.BANXIN{
+  clear: both;
+  box-sizing: border-box;
+  width: 1202px;
+  margin: 0 auto;
+  border-top: 0;
+  overflow: hidden;
+}
